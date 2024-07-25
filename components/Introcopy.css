@@ -1,0 +1,45 @@
+.introcopy {
+    display: flex;
+    margin: auto;
+    width: 1440px;
+    height: 569px;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.introcopy-text {
+    width: 545px;
+    height: 228px;
+    margin-left: 826px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.introcopy-text h1 {
+    color: #091133;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 500;
+}
+
+.introcopy-text p {
+    width: 445px;
+    font-size: 16px;
+    color: #6F7CB2;
+    line-height: 26px;
+    text-align: justify;
+}
+
+.introcopy-pic {
+    width: 540px;
+    height: 387px;
+    display: flex;
+    justify-content: center;
+    margin-left: 161px;
+    position: absolute;
+    border: 2px #3F3D56;
+}
+
+.introcopy-pic img {
+    height: auto;
+}

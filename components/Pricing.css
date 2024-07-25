@@ -1,0 +1,54 @@
+ .pricing {
+     text-align: center;
+     width: 1440px;
+     height: 500px;
+     margin: auto;
+     padding: 200px 0;
+     background-color: rgb(241, 243, 250);
+     font-family: Roboto;
+ }
+ 
+ .pricing-text h2 {
+     font-size: 36px;
+     color: #091133;
+     line-height: 48px;
+     font-weight: 500;
+ }
+ 
+ .pricing-text p {
+     font-size: 16px;
+     color: #6F7CB2;
+     margin: 0 auto 20px;
+     max-width: 600px;
+     line-height: 26px;
+ }
+ 
+ .price-text h1 {
+     font-size: 50px;
+     color: #222F65;
+     margin: 50px auto 0;
+ }
+ 
+ .price-text p {
+     font-size: 16px;
+     color: #37447E;
+     margin: 5px;
+ }
+ 
+ .comment p {
+     font-size: 14px;
+     color: #5D6970;
+     margin-top: 50px;
+     margin: 80px auto 0;
+ }
+ 
+ .comment button {
+     background-color: #111B47;
+     color: #ffffff;
+     border: none;
+     font-size: 14px;
+     cursor: pointer;
+     width: 189px;
+     height: 31.81px;
+     margin-top: 4px;
+ }

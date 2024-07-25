@@ -1,0 +1,56 @@
+.header {
+    background-color: #fff;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 26px;
+    font-weight: 900;
+    color: #37447E;
+    position: absolute;
+    margin-left: 661px;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-left: 130px;
+}
+
+.nav-links li {
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #505F98;
+    display: block;
+}
+
+.buy-now {
+    background-color: #111B47;
+    color: #FFFFFF;
+    cursor: pointer;
+    width: 160px;
+    height: 26px;
+    left: 1115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-size: 12px;
+    position: absolute;
+}

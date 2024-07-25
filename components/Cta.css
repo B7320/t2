@@ -1,0 +1,55 @@
+.cta {
+    display: flex;
+    margin: auto;
+    width: 1440px;
+    height: 546px;
+    font-family: Roboto;
+}
+
+.cta-text {
+    width: 445px;
+    height: 230px;
+    margin-left: 826px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.cta-text h1 {
+    color: #091133;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 500;
+}
+
+.cta-text p {
+    width: 445px;
+    font-size: 16px;
+    color: #6F7CB2;
+    line-height: 26px;
+    text-align: justify;
+}
+
+.cta-button {
+    background-color: #111B47;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.cta-pic {
+    width: 445px;
+    height: 312px;
+    display: flex;
+    justify-content: center;
+    margin-left: 209px;
+    position: absolute;
+    border: 2px #3F3D56;
+    margin-top: 80px;
+}
+
+.cta-pic img {
+    height: auto;
+}
